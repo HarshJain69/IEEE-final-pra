@@ -1,17 +1,10 @@
 Certainly! Here's a simplified version for a single README.md file:
 
 ```markdown
-# Arduino Projects
-
-This repository contains a collection of Arduino projects implemented for various purposes.
 
 ## LED Flashing
 
-The LED Flashing project involves blinking an LED with a 1-second interval.
 
-**Code:**
-
-```cpp
 int led_flash = 13;
 
 void setup() {
